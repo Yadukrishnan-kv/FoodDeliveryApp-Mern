@@ -5,12 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon Server.js"
-  },
-  {
-  "scripts": {
+    "start": "nodemon Server.js",
     "build": "react-scripts build && mv build /opt/build"
-  }
+  },
+  
 }
   "author": "",
   "license": "ISC",
